@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SwiftMike/restaurantAPI/issues"
   },
-  "homepage": "https://github.com/SwiftMike/restaurantAPI#readme"
+  "homepage": "https://github.com/SwiftMike/restaurantAPI#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
 }
