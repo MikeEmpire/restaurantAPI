@@ -1,3 +1,8 @@
 /.vscode
+<<<<<<< HEAD
 /bower_components
 /node_modules
+=======
+/node_modules
+/bower_components
+>>>>>>> c661eda94d5548da4a7cca8d9f931a865d011993
